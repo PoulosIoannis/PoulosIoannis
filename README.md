@@ -38,6 +38,7 @@
 <h2 id="-projects"><img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="25"><b> Projects</b></h2>
 
 <ul>
+  <li><b>Designed:</b> Multiagent System for graph coloring using Q-learning</li>
   <li><b>Solved:</b> Tromino Tiling Problem (Algorithmic challenge)</li>
   <li><b>Built:</b> Website for Airline Ticket Reservations</li>
 </ul>
