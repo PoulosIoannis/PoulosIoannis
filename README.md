@@ -48,7 +48,7 @@
 <h2 id="-linkedin"><b>Let’s Connect..!</b> <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width="80"></h2>
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/ioannis-poulos-799b4b356/" target="_blank">
+  <a href="[https://www.linkedin.com/in/ioannis-poulos-799b4b356/](https://www.linkedin.com/in/ιωάννης-πούλος-799b4b356/)" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Ioannis%20Poulos-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </p>
