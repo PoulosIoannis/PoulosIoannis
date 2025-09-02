@@ -49,7 +49,7 @@
 
 <p align="left">
   <a href="[https://www.linkedin.com/in/ioannis-poulos-799b4b356/](https://www.linkedin.com/in/ιωάννης-πούλος-799b4b356/)" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Ioannis%20Poulos-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="www.linkedin.com/in/ιωάννης-πούλος-799b4b356" alt="LinkedIn">
   </a>
 </p>
 
