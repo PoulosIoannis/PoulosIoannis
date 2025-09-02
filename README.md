@@ -48,10 +48,12 @@
 <h2 id="-linkedin"><b>Let’s Connect..!</b> <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width="80"></h2>
 
 <p align="left">
-  <a href="[https://www.linkedin.com/in/ioannis-poulos-799b4b356/](https://www.linkedin.com/in/ιωάννης-πούλος-799b4b356/)" target="_blank">
-    <img src="www.linkedin.com/in/ιωάννης-πούλος-799b4b356" alt="LinkedIn">
+  <a href="https://www.linkedin.com/in/ioannis-poulos-799b4b356/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" 
+         alt="LinkedIn" width="40" height="40">
   </a>
 </p>
+
 
 <br><hr><br>
 
